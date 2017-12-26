@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dan's Tech Blog
+title: Giuseppe's Blog
 ---
 
 ## Welcome to my website

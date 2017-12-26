@@ -1,7 +1,29 @@
-{% include head.html %}
+<html>
+<head>
+<title>A website</title>
+</head>
 
-    <h1>{{ page.title }}</h1>
+<body>
+<div id="wrap">
+	<div id="header">
+		<h1>A website</h1>
+		<div class="slogan">
+				<a href="/about">About</a> |
+				<a href="/cv">Resume</a>
+		</div>
+    </div>
 
-    {{ content }}
+    <div id="content">  
+      {{ content }}
+    </div>
 
-{% include foot.html %}
+    <div id="footer">
+
+        Footer
+
+    </div>
+
+</div>
+
+</body>
+</html>

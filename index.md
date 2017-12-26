@@ -1,3 +1,8 @@
+---
+layout: default
+title: Dan's Tech Blog
+---
+
 ## Welcome to my website
 This is a test website
 

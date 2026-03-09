@@ -37,6 +37,11 @@
 $theme-primary: #F05F40;
 $theme-dark: #222;
 
+img.profile {
+    border-radius: 50%;
+    object-fit: cover;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#1a1a2e"/>
+  <!-- axes -->
+  <line x1="160" y1="300" x2="440" y2="300" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" opacity="0.4"/>
+  <line x1="160" y1="120" x2="160" y2="300" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" opacity="0.4"/>
+  <!-- line chart -->
+  <polyline points="160,260 210,240 260,230 310,200 345,195 380,160 420,130 440,120"
+            fill="none" stroke="#4fc3f7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- area fill -->
+  <polygon points="160,260 210,240 260,230 310,200 345,195 380,160 420,130 440,120 440,300 160,300"
+           fill="#4fc3f7" opacity="0.12"/>
+  <!-- dots -->
+  <circle cx="160" cy="260" r="5" fill="#4fc3f7"/>
+  <circle cx="260" cy="230" r="5" fill="#4fc3f7"/>
+  <circle cx="345" cy="195" r="5" fill="#4fc3f7"/>
+  <circle cx="440" cy="120" r="5" fill="#4fc3f7"/>
+</svg>

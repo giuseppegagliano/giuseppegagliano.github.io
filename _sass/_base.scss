@@ -417,6 +417,23 @@ body {
             line-height: 1.65;
             margin: 0;
         }
+
+        .hobby-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-top: 14px;
+
+            span {
+                font-size: 12px;
+                font-weight: 600;
+                color: #888;
+                background: #f5f4f0;
+                border-radius: 20px;
+                padding: 3px 10px;
+                letter-spacing: 0.02em;
+            }
+        }
     }
 
     .hobby-icon {

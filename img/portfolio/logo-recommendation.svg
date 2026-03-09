@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#1a1a2e"/>
+  <!-- 3x2 card grid -->
+  <rect x="130" y="120" width="90" height="60" rx="8" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+  <rect x="255" y="120" width="90" height="60" rx="8" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+  <rect x="380" y="120" width="90" height="60" rx="8" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+  <rect x="130" y="210" width="90" height="60" rx="8" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+  <rect x="255" y="210" width="90" height="60" rx="8" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+  <!-- highlighted card -->
+  <rect x="380" y="210" width="90" height="60" rx="8" fill="#4fc3f7" opacity="0.85"/>
+  <!-- star in highlighted card -->
+  <polygon points="425,224 428,234 439,234 430,241 433,251 425,245 417,251 420,241 411,234 422,234"
+           fill="#ffffff"/>
+</svg>
